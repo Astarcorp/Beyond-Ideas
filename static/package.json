@@ -61,7 +61,7 @@
     "@material-ui/icons": "^3.0.2",
     "babel-polyfill": "^6.26.0",
     "bootstrap": "^4.3.1",
-    "datatables.net": "^1.10.19",
+    "datatables.net": "^1.10.22",
     "datatables.net-dt": "^1.10.19",
     "html-loader": "^0.5.5",
     "jquery": "^3.3.1",
